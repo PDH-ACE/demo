@@ -1,4 +1,4 @@
 <?php
-	echo 7777;
+	echo 777;
 
-	echo 6666;
+	echo 666;
